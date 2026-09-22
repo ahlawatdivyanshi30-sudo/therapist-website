@@ -62,18 +62,7 @@ git push -u origin main
 3. Leave settings as default → **Deploy**
 4. You'll get a live URL like `maya-reynolds-therapy.vercel.app`
 
-## 4. Recording the 5-minute Loom video
 
-1. **(30s) Intro** — "Hi Dr. Reynolds, here's the first draft of your new site."
-2. **(1.5 min) Desktop walkthrough** — Home → About → Specialties (open one
-   detail page) → Methods (open one detail page) → Office → FAQ → Contact.
-3. **(1.5 min) Explain design choices** — palette/typography fit for a calm,
-   modern therapy brand; every specialty/method page pulled directly from
-   her profile; mention this is now a full site, not a single page, so it's
-   easier for her to add new specialties later.
-4. **(1 min) Mobile walkthrough** — show the mobile menu working.
-5. **(30s) Wrap** — invite feedback, mention the contact form needs a real
-   backend connected before going live.
 
 ## Notes on content sourcing
 - All copy is paraphrased/rewritten from Dr. Maya Reynolds' profile
